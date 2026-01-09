@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "properties": {
+      "id": { "type": "keyword" },
+      "text": { "type": "text" },
+      "domain": { "type": "keyword" },
+      "embedding": {
+        "type": "dense_vector",
+        "dims": 384,
+        "index": true,
+        "similarity": "cosine"
+      },
+      "entities": { "type": "keyword" },
+      "years": { "type": "integer" }
+    }
+  }
+}
