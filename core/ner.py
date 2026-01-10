@@ -17,7 +17,7 @@ def extract_entities(text: str) -> dict:
     """
     Zwraca encje nazwane z tekstu w ujednoliconym formacie.
     """
-    print(nlp.get_pipe("ner").labels)
+    # print(nlp.get_pipe("ner").labels)
     doc = nlp(text)
 
     entities = defaultdict(set)

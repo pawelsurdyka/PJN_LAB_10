@@ -5,7 +5,7 @@ MAPPING_PATH = "indexing/es_mapping.json"
 
 def main():
     # usuń jeśli istnieje
-    # requests.delete(f"{ES_URL}/{ES_INDEX}")
+    requests.delete(f"{ES_URL}/{ES_INDEX}")
 
     with open(MAPPING_PATH, "r") as f:
         mapping = json.load(f)

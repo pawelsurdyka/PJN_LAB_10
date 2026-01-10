@@ -14,6 +14,9 @@ def main():
     points = []
 
     for doc in tqdm(docs, desc="Indexing Qdrant"):
+        if doc["id"] % 10 != 0:
+            continue
+
         text = doc["text"]
 
         entities = extract_entities(text)

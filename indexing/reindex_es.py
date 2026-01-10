@@ -13,6 +13,9 @@ def main():
     docs = load_jsonl(DATA_PATH)
 
     for doc in tqdm(docs, desc="Indexing ES"):
+        if doc["id"] % 10 != 0:
+            continue
+
         text = doc["text"]
 
         entities = extract_entities(text)
