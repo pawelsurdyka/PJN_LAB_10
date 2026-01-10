@@ -105,16 +105,9 @@ def extract_dates(text: str) -> dict:
     dates = set(regex_res["dates"])
     ranges = set(regex_res["ranges"])
 
-    # print("regex_res")
-    # print(regex_res)
-    # print("spacy_res")
-    # print(spacy_res)
-
     # fallback LLM tylko jeśli słabo
     if not years and not dates:
         llm_res = extract_dates_llm(text)
-        # print("llm_res")
-        # print(llm_res)
         years.update(llm_res.get("years", []))
         dates.update(llm_res.get("dates", []))
         ranges.update(llm_res.get("ranges", []))

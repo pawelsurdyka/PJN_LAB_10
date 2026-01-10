@@ -8,12 +8,9 @@ N_SAMPLES = 5
 def main():
     docs = load_jsonl(DATA_PATH)
     samples = random.sample(docs, N_SAMPLES)
-    # samples = [
-    #
-    # ]
 
     for i, doc in enumerate(samples, 1):
-        text = doc["text"] # + doc["date"]
+        text = doc["text"]
 
         dates = extract_dates(text)
 

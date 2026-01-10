@@ -38,9 +38,7 @@ def generate_answer(
     prompt = f"""
 Na podstawie poniższych fragmentów tekstu odpowiedz na pytanie.
 Odpowiedź MUSI być oparta wyłącznie na podanych fragmentach.
-Jeżeli brakuje informacji napisz, BRAK DANYCH. 
-Jeżeli fragmenty tekstu są lekko powiązane z pytaniem lub tylko zachaczają o ten temat to mimo to odpowiedz na ich bazie.
-
+Używaj cytatów
 
 FRAGMENTY:
 {context_text}

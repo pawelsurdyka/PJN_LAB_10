@@ -38,13 +38,8 @@ def main():
                 entities_dict["locations"]
         )
 
-        # print(entities)
-        # print(years)
-
-        # stats[topic][label]["entities"].update(entities)
-        # stats[topic][label]["years"].update(years)
         stats[topic][label]["entities"].update(all_entity_names)
-        stats[topic][label]["years"].update(dates_dict["years"])  # Tutaj też przekazujemy listę lat
+        stats[topic][label]["years"].update(dates_dict["years"])
 
     # ===== RAPORT TEKSTOWY =====
     for topic, topic_stats in stats.items():

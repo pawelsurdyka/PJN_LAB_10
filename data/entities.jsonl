@@ -1,0 +1,100 @@
+{"id": 10, "entities": {"persons": ["Bugaj", "Damian \"", "Jacek", "Jańczak", "Jeziak", "Kamil", "Kamiński", "Kapczyński", "Karol", "Kisłowski", "Krzemiński", "Krzysztof", "Lewandrowski", "Maciej \"Luz\"", "Marcin \"", "Mateusz", "Nawrocki", "Paweł \"", "Piotr", "Piotr \"peet\"", "Venatores", "Zawistowski", "kamil\"", "Ćwikliński", "Świętochowski"], "organizations": ["AGO Esports", "Izako Boars", "SEAL Esports"], "locations": []}}
+{"id": 20, "entities": {"persons": ["Jabłonka"], "organizations": ["Ministerstwa Zdrowia", "Uniwersytet Medyczny"], "locations": []}}
+{"id": 30, "entities": {"persons": ["Spaarti"], "organizations": [], "locations": ["Waylandzie"]}}
+{"id": 40, "entities": {"persons": ["Adama Rucińskiego"], "organizations": ["Biuro Projektowe Archimedia", "Gminy Kobierzyce", "PREFABRYKAT", "Rady Miejskiej 17", "Szkoły Podstawowej na Winnej Górze"], "locations": ["Karpacza", "Poznania"]}}
+{"id": 50, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 60, "entities": {"persons": ["Chopin", "Chopinem", "Franciszek Ksawery", "Justyna Krzyżanowskiej", "Karola Zboińskiego", "Mikołaja Chopina", "Skarbków", "Zboińskim"], "organizations": [], "locations": ["Izbicy Kujawskiej", "Kikół", "Kowalewie", "Pomorze", "płockiego", "Żelazowej Woli"]}}
+{"id": 70, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 80, "entities": {"persons": [], "organizations": ["rajkibica.pl"], "locations": []}}
+{"id": 90, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 100, "entities": {"persons": [], "organizations": ["Spotify", "Tidal"], "locations": ["Audioquest"]}}
+{"id": 110, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 120, "entities": {"persons": [], "organizations": ["SYSTEM FIDELITY CD", "| AUDIO 2"], "locations": []}}
+{"id": 130, "entities": {"persons": [], "organizations": ["FOK", "IPMS", "Muzeum Historii Polski", "Muzeum Historii Polski Żołnierz", "Pułku Strzelców Konnych", "Pułku Ułanów"], "locations": ["Szkocja"]}}
+{"id": 140, "entities": {"persons": [], "organizations": ["Biuletyn Informacji Publicznej Samorządowe Przedszkole Nr 107", "Samorządowe Przedszkole Nr 107"], "locations": []}}
+{"id": 150, "entities": {"persons": [], "organizations": ["Polsat Box"], "locations": []}}
+{"id": 160, "entities": {"persons": ["Andrzej Ostrowski", "Mateusz Greloch", "Tom", "Tom Clancy"], "organizations": [], "locations": ["amerykański", "pl store", "twardsi"]}}
+{"id": 170, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 180, "entities": {"persons": ["Konrad"], "organizations": [], "locations": ["Jankowice", "Mazur Jankowice", "Niedziałami", "Warmii", "gmina Srokowo", "gminie Srokowo", "powiecie kętrzyńskim", "województwa olsztyńskiego", "województwie warmińsko-mazurskim"]}}
+{"id": 190, "entities": {"persons": ["Koronawirusa", "koronawirusa"], "organizations": [], "locations": ["Olsztyna", "Olsztynie", "ostródzkim", "powiatach iławskim", "powiatu olsztyńskiego", "powiecie olsztyńskim"]}}
+{"id": 200, "entities": {"persons": ["Danuta Załęska", "Gabriele Gebauer", "Mileny Foltynovej", "Teresa Zielewicz", "Teresa Zielewicz-Lottspeich"], "organizations": ["Austrią", "Hypobanku"], "locations": ["Polki", "Polski", "polskie", "polskiej", "Śląska"]}}
+{"id": 210, "entities": {"persons": [], "organizations": ["WELL"], "locations": ["USA"]}}
+{"id": 220, "entities": {"persons": ["Rozchylony"], "organizations": [], "locations": []}}
+{"id": 230, "entities": {"persons": ["BellyBoyBoy", "Derek M"], "organizations": [], "locations": []}}
+{"id": 240, "entities": {"persons": ["Bloom", "Katy Perry", "Miley Cyrus", "Miranda Kerr", "Orlando"], "organizations": [], "locations": []}}
+{"id": 250, "entities": {"persons": [], "organizations": [], "locations": ["Bytomiu"]}}
+{"id": 260, "entities": {"persons": [], "organizations": [], "locations": ["Warszawa"]}}
+{"id": 270, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 280, "entities": {"persons": [], "organizations": ["\"am\"", "Auchan"], "locations": ["Piasecznie", "Polska", "Warszawą", "francuskim", "wykopywanego"]}}
+{"id": 290, "entities": {"persons": [], "organizations": [], "locations": ["sądeckiego"]}}
+{"id": 300, "entities": {"persons": [], "organizations": [], "locations": ["brytyjkie"]}}
+{"id": 310, "entities": {"persons": [], "organizations": [], "locations": ["Polskie"]}}
+{"id": 320, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 330, "entities": {"persons": [], "organizations": ["SKOK", "Senat"], "locations": ["Polsce"]}}
+{"id": 340, "entities": {"persons": [], "organizations": [], "locations": ["chińskich"]}}
+{"id": 350, "entities": {"persons": ["Dorota", "Mitomanka"], "organizations": [], "locations": []}}
+{"id": 360, "entities": {"persons": ["Kliczko", "Tomasz Adamek"], "organizations": [], "locations": []}}
+{"id": 370, "entities": {"persons": [], "organizations": [], "locations": ["Europy", "Hiszpanią", "Mediolanie", "San Siro", "Włoszech"]}}
+{"id": 380, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 390, "entities": {"persons": [], "organizations": [], "locations": ["amerykańskiej", "polsku"]}}
+{"id": 400, "entities": {"persons": [], "organizations": ["Miasto Nowy Jork", "New York City in", "Queens Museum of Art", "Queens Museum of Art | Muzea Nowego Jorku |", "| New York Online Flushing Meadows Corona Park Queens NY"], "locations": []}}
+{"id": 410, "entities": {"persons": [], "organizations": [], "locations": ["Bugu", "Bystrzycy", "Tyśmienicy", "Wieprza", "Wisły"]}}
+{"id": 420, "entities": {"persons": [], "organizations": [], "locations": ["Polskie"]}}
+{"id": 430, "entities": {"persons": ["Julii"], "organizations": [], "locations": []}}
+{"id": 440, "entities": {"persons": ["Dorota Szubierajska", "OBUW"], "organizations": [], "locations": []}}
+{"id": 450, "entities": {"persons": ["Alfred L", "Edmund Karaśkiewicz", "Eugeniusz C o", "Franciszek Hryniewicz", "Grzegorz Parczuk", "Henryk Łowmiański", "Józef Kardzis", "Józef Lisowski", "Kazimierz Bajon", "Leon Rogaliński", "Marian Ginter", "Stanisław Fitas", "Stanisław Gorlas", "Stanisław Jaroch", "Stanisław Paszkowiak", "Tadeusz", "Władysław Kurasztkiewicz", "Zbigniew N", "Zbigniew Panowicz", "Zygmunt Frąckowiak", "Zygmunt N apierała"], "organizations": [], "locations": [".65", "Poznania", "Województwa Poznańskiego", "wielkopolskiej"]}}
+{"id": 460, "entities": {"persons": [], "organizations": ["Komisja Nadzoru Finansowego"], "locations": []}}
+{"id": 470, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 480, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 490, "entities": {"persons": ["Andersena", "Marii Gryczki"], "organizations": ["Restaurację Benitto", "Szkolnego Klubu Książki"], "locations": []}}
+{"id": 500, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 510, "entities": {"persons": ["Henryka", "Mariusza Nowoczesny"], "organizations": ["Poleasingowe.pl"], "locations": []}}
+{"id": 520, "entities": {"persons": [], "organizations": ["Kayah"], "locations": []}}
+{"id": 530, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 540, "entities": {"persons": ["Angela Scanlon", "Joe", "Schindlera"], "organizations": [], "locations": ["Bazylikę Mariacką", "Hali Targowej", "Krakowa", "Kraków", "Rynek Główny", "Wawel", "krakowskiego", "polskich"]}}
+{"id": 550, "entities": {"persons": [], "organizations": ["BOSiR-u"], "locations": ["brzeską"]}}
+{"id": 560, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 570, "entities": {"persons": ["Andrzej Lepper", "Jarosławem", "Piotr Kucia", "Piotr Męcik"], "organizations": [], "locations": ["Polska", "Zielnowie"]}}
+{"id": 580, "entities": {"persons": ["Aniu", "Franiową", "Katarzyna Kordella", "Monika Mańkowska", "stoiczek fisher price"], "organizations": [], "locations": []}}
+{"id": 590, "entities": {"persons": ["Microsoft", "Spartana"], "organizations": ["Microsoft"], "locations": []}}
+{"id": 600, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 610, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 620, "entities": {"persons": ["Magdalena Pikul"], "organizations": [], "locations": []}}
+{"id": 630, "entities": {"persons": [], "organizations": [], "locations": ["Księżyca"]}}
+{"id": 640, "entities": {"persons": [], "organizations": ["Kampus ArcelorMittal University"], "locations": []}}
+{"id": 650, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 660, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 670, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 680, "entities": {"persons": ["Galop'44"], "organizations": [], "locations": ["Warszawy", "warszawskie"]}}
+{"id": 690, "entities": {"persons": [], "organizations": [], "locations": ["Holandii", "Niemiec", "polskim"]}}
+{"id": 700, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 710, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 720, "entities": {"persons": [], "organizations": [], "locations": ["szydłowieccy"]}}
+{"id": 730, "entities": {"persons": ["Seroxat"], "organizations": [], "locations": []}}
+{"id": 740, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 750, "entities": {"persons": [], "organizations": ["Hurtownia Artnova PEN JEDNORAZOWY BEAUTY LINE"], "locations": []}}
+{"id": 760, "entities": {"persons": ["Anna", "Anna Kalczyńska", "Kalczyńska"], "organizations": [], "locations": ["Olsztyn"]}}
+{"id": 770, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 780, "entities": {"persons": [], "organizations": ["Interactive English School"], "locations": []}}
+{"id": 790, "entities": {"persons": [], "organizations": [], "locations": ["Słoneczna", "hiszpańskiego"]}}
+{"id": 800, "entities": {"persons": ["Marka Cichosza", "Wasiołek"], "organizations": ["Legii"], "locations": ["France", "Polski", "Toru Wyścigów Konnych"]}}
+{"id": 810, "entities": {"persons": ["Kolbuszowscy"], "organizations": [], "locations": ["Niwiskach"]}}
+{"id": 820, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 830, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 840, "entities": {"persons": ["Bach", "koronawirusa"], "organizations": ["MKOl", "UEFA"], "locations": []}}
+{"id": 850, "entities": {"persons": [], "organizations": ["Acer"], "locations": []}}
+{"id": 860, "entities": {"persons": [], "organizations": [], "locations": ["angielski"]}}
+{"id": 870, "entities": {"persons": ["Kaczor"], "organizations": [], "locations": []}}
+{"id": 880, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 890, "entities": {"persons": [], "organizations": ["prawniczejKancelaria"], "locations": ["Katowice", "katowice"]}}
+{"id": 900, "entities": {"persons": ["Rotmanka"], "organizations": [], "locations": ["Rotmance"]}}
+{"id": 910, "entities": {"persons": ["Karwinę"], "organizations": [], "locations": ["Bogumin", "Cieszyn", "Czeski Cieszyn", "Hażlach", "Kocobędz", "Trzyniec"]}}
+{"id": 920, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 930, "entities": {"persons": ["Unigroup"], "organizations": ["CSR", "Intela", "Qualcomm"], "locations": ["Europie", "Europy", "Lantiq", "brytyjskiego", "chińskim", "europejskim", "niemieckiego"]}}
+{"id": 940, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 950, "entities": {"persons": ["Greene", "Marilyn Monroe", "Milton H."], "organizations": [], "locations": []}}
+{"id": 960, "entities": {"persons": [], "organizations": [], "locations": []}}
+{"id": 970, "entities": {"persons": ["Mgs5"], "organizations": ["MGS5", "Rockstar"], "locations": ["głosów:0"]}}
+{"id": 980, "entities": {"persons": ["geodezjiPoradnik"], "organizations": ["Rybnik Samodzielne"], "locations": ["krzesłaDobry"]}}
+{"id": 990, "entities": {"persons": ["ZEUX"], "organizations": [], "locations": []}}
+{"id": 1000, "entities": {"persons": ["Anna Maciejewska", "Jana Pawła II"], "organizations": ["Centrum Myśli"], "locations": ["Zawoi"]}}

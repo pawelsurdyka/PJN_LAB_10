@@ -8,7 +8,7 @@ from core.dates import extract_dates
 BENCHMARK_PATH = "evaluation/benchmark.json"
 OUTPUT_PATH = "evaluation/quality_results.json"
 
-K = 5  # liczba dokumentów do RAG
+K = 5
 
 
 def check_citations(answer: str, contexts: list) -> bool:

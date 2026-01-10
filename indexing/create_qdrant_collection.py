@@ -5,7 +5,7 @@ VECTOR_SIZE = 384
 
 def main():
     # usuń kolekcję
-    # requests.delete(f"{QDRANT_URL}/collections/{QDRANT_COLLECTION}")
+    requests.delete(f"{QDRANT_URL}/collections/{QDRANT_COLLECTION}")
 
     payload = {
         "vectors": {
