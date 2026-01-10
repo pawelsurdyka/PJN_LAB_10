@@ -44,7 +44,7 @@ def main():
     # ===== RAPORT TEKSTOWY =====
     for topic, topic_stats in stats.items():
         print("\n" + "=" * 80)
-        print(f"🧠 TEMAT: {topic.upper()}")
+        print(f"TEMAT: {topic.upper()}")
 
         for label in ["relevant", "noise"]:
             print("\n" + "-" * 40)
@@ -58,7 +58,7 @@ def main():
             for year, cnt in topic_stats[label]["years"].most_common(10):
                 print(f"  {year}: {cnt}")
 
-    print("\n✅ Analiza zakończona")
+    print("\nAnaliza zakończona")
 
 if __name__ == "__main__":
     main()

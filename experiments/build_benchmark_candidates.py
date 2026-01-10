@@ -32,7 +32,7 @@ def main():
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(all_candidates, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ Zapisano kandydatów do benchmarku → {OUTPUT_PATH}")
+    print(f"Zapisano kandydatów do benchmarku → {OUTPUT_PATH}")
 
 if __name__ == "__main__":
     main()
