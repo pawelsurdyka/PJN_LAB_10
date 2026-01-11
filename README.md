@@ -4,6 +4,8 @@
 
 Repozytorium zawiera implementację inteligentnego systemu RAG (Retrieval-Augmented Generation), który łączy klasyczne i semantyczne metody NLP z ekstrakcją encji nazwanych (NER) oraz informacji czasowych.
 
+Główny kod z funkcjami znajduje się w folderze `core`, pozostałe foldery to testy/eksperymenty i dane.
+
 ---
 
  Dane
